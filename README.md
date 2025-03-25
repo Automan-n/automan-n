@@ -16,7 +16,7 @@ I am a CS student at the International University of Casablanca, driven by a cur
 
 
 ## Tech Stack
-[![My Skills]((https://skillicons.dev/icons?i=js,html,css,wasm,react,au,ps,bash,c,c++,c#,docker,html,kali,vscode)](https://skillicons.dev))
+[![My Skills] [(https://skillicons.dev/icons?i=js,html,css,wasm,react,au,ps,bash,c,c++,c#,docker,html,kali,vscode)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
